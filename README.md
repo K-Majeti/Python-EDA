@@ -11,4 +11,4 @@
 - **Automotive Industry Trends:** Investigate car sales data to discover preferences and trends in car features and pricing. 🚗
 - **Medical Data Insights:** Analyze medical datasets to discern important health trends. 🏥
 
-Each notebook is equipped with comprehensive data explorations, visual representations, and analytical insights, all clearly documented. Dive into these notebooks to understand more about the datasets and the advanced visualization techniques employed.
+Each notebook is equipped with comprehensive data explorations, visual representations, and analytical insights, as well as a summary of findings all clearly documented. Dive into these notebooks to understand more about the datasets and the advanced visualization techniques employed.
